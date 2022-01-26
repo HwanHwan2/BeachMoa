@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<!DOCTYPE configuration>
+<!-- /WEB-INF/decorators.xml -->
+<decorators defaultdir="/layout">
+<decorator name="main" page="layout.jsp">
+		<pattern>/user/*.do</pattern>
+		<pattern>/board/*.do</pattern>
+	</decorator>
+<!-- 
+<decorator name="main" page="boardlayout.jsp">
+		<pattern>/board/*.do</pattern>
+	</decorator>		
+ -->
+<decorator name="admin" page="adminlayout.jsp">
+	<pattern>/admin/*.do</pattern>
+	</decorator>
+	
+	
+	<excludes></excludes>
+</decorators>
