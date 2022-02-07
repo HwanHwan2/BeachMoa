@@ -17,8 +17,11 @@ Info
 - 프로젝트 주소 : https://github.com/HwanHwan2/CRUDProject/   
 - 와이어툴(화면 구성) : https://whimsical.com/crud-XPPwE7dBqSWbKD5s56CuoY   
 - 포트폴리오 : https://www.slideshare.net/secret/FEzsBu0tBOjk71   
-
 - 제작기간 : 2021/2 ~ 2021/4   
+
+##### 참여 인원   
+- 최지환 외 3인   
+
 ##### 기술 스택   
 - Tool : Eclipse, MariaDB   
 - Server : Apache Tomcat 9.0   
@@ -27,9 +30,9 @@ Info
 - Framework : Spring, MyBatis, WebSocket   
 
 ##### 주요 기능
-- Map : DB에 저장되어 있는 해변의 위도/경도 값과 각종 정보를 지도에 표현  
-- 알림 : WebSocket 활용한 알람 기능, 게시물 댓글 작성 시, 쪽지 전송 시
-- Note : 쪽지기능, 쪽지 조회/전송/삭제
+- 지도 : DB에 저장되어 있는 해변의 위도/경도 값과 각종 정보를 카카오 지도 API를 활용하여 지도에 표현  
+- 알림 : WebSocket 활용한 알람 기능, 게시물 댓글 작성/쪽지 전송/ 게시물 신고에 대한 알람
+- 쪽지 : 쪽지기능, 쪽지 조회/전송/삭제
 
 ## **화면 구성**   
 https://whimsical.com/crud-XPPwE7dBqSWbKD5s56CuoY@3CRerdhrAw8kHgqaw9sPj7xQ   
