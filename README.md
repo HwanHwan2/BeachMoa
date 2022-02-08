@@ -14,13 +14,13 @@ Spring WebSocket Framework와 toastr 라이브러리를 활용한 알람 기능,
 
 Info
 ==============
-- 프로젝트 주소 : https://github.com/HwanHwan2/CRUDProject/   
-- 와이어툴(화면 구성) : https://whimsical.com/crud-XPPwE7dBqSWbKD5s56CuoY   
-- 포트폴리오 : https://www.slideshare.net/secret/FEzsBu0tBOjk71   
+- 프로젝트 주소 : https://github.com/HwanHwan2/BeachMoa/   
+- 와이어툴(화면 구성) : https://whimsical.com/beachmoa-S9ZgCtPmr86qD77PoTzncg   
+- 포트폴리오 :    
 - 제작기간 : 2021/2 ~ 2021/4   
 
 ##### 참여 인원   
-- 최지환 외 3인   
+- 최지환 외 3인(김창희, 정명수, 임규혁)  
 
 ##### 기술 스택   
 - Tool : Eclipse, MariaDB   
@@ -35,20 +35,27 @@ Info
 - 쪽지 : 쪽지기능, 쪽지 조회/전송/삭제
 
 ## **화면 구성**   
-https://whimsical.com/crud-XPPwE7dBqSWbKD5s56CuoY@3CRerdhrAw8kHgqaw9sPj7xQ   
-![와이어툴](https://user-images.githubusercontent.com/82797084/147442466-87e71117-580c-4a31-bf33-060a48ca6438.PNG)
+https://whimsical.com/beachmoa-S9ZgCtPmr86qD77PoTzncg   
+![와이어툴](https://user-images.githubusercontent.com/82797084/152932335-53977ea5-cf90-4e6e-9b1b-58a54d4f7df2.PNG)
+
 
 ## **DB/API 설계**   
-![ER](https://user-images.githubusercontent.com/82797084/147442536-4743377f-0601-4d42-a083-afdd1daf3667.png)   
+![beachmoa](https://user-images.githubusercontent.com/82797084/152932450-007b7725-a7d9-4e55-a572-1b6b02a87d55.png)
+ 
 
 ## **프로젝트 구성**   
 - src/main/java   
-![controller](https://user-images.githubusercontent.com/82797084/152726899-b1db7eb3-1f88-4c20-aff9-7c075366041a.PNG)   
+  ![image](https://user-images.githubusercontent.com/82797084/152932565-eb191aca-0df8-4507-ae9c-1c0d6b54a8b8.png)   
+![image](https://user-images.githubusercontent.com/82797084/152932622-61c9a072-a089-49c1-ae0f-ed5b60ee34fc.png)   
+
 
 - src/main/resources   
-![resource](https://user-images.githubusercontent.com/82797084/152726921-ea016b7d-1105-4800-a155-2744bc64837d.PNG)
+![image](https://user-images.githubusercontent.com/82797084/152932660-265d9a47-837c-4b1c-85a4-2037e4df5f33.png)   
 
 - View   
-![src view](https://user-images.githubusercontent.com/82797084/152726939-6402ff2b-1926-4284-9076-72b0f9ee6969.PNG)
+![image](https://user-images.githubusercontent.com/82797084/152932784-6abf0fbb-817c-4974-ad10-78b1b59d8c85.png)   
+![image](https://user-images.githubusercontent.com/82797084/152932833-25588772-ecc5-4d6f-a972-2a4ee5db0a4f.png)   
+![image](https://user-images.githubusercontent.com/82797084/152932871-63e5413a-3b28-4c7f-9d0f-6f549935b584.png)   
+
 
 
