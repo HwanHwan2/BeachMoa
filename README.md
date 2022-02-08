@@ -16,7 +16,7 @@ Info
 ==============
 - 프로젝트 주소 : https://github.com/HwanHwan2/BeachMoa/   
 - 와이어툴(화면 구성) : https://whimsical.com/beachmoa-S9ZgCtPmr86qD77PoTzncg   
-- 포트폴리오 :    
+- 포트폴리오 :  https://www.slideshare.net/secret/DaZxW3PSOuTaag   
 - 제작기간 : 2021/2 ~ 2021/4   
 
 ##### 참여 인원   
